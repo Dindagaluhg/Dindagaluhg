@@ -1,16 +1,21 @@
-### Hi there 👋
+### Hi 👋 Greetings from Dinda! 🌟
 
-<!--
-**Dindagaluhg/Dindagaluhg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A graduate in Statistics, passionate about data visualization, analysis, and reporting. Enjoy learning and seeking new experience in the data field where she can bring value to any future company.
 
-Here are some ideas to get you started:
+🌱 **Currently Learning**: Data Science  
+🔗 **Portfolio**: [Check out my work here](https://github.com/Dindagaluhg/Data-Portfolio-by-Dinda)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌐 **Languages**: Indonesia, English
+
+🔧 **Tools**:
+- Programming : Python, SQL
+- Visualization : Tableau, Lookerstudio
+
+💼 **Competencies**:
+- Data Preprocessing and Data Analysis
+- Data Visualization
+- Statistical Methods
+
+**Let's connect**:
+📫 **LinkedIn**: [Dinda's Profile](http://www.linkedin.com/in/dinda-galuh-guminta)
+✉️ **Email**: dindaguminta@gmail.com
